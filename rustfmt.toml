@@ -1,0 +1,12 @@
+# combine_control_expr = false
+# enum_discrim_align_threshold = 20
+# struct_field_align_threshold = 20
+# format_code_in_doc_comments = true
+hard_tabs = true
+newline_style = "Unix"
+# jnormalize_comments = true
+# normalize_doc_attributes = true
+# reorder_impl_items = true
+reorder_imports = true
+reorder_modules = true
+# wrap_comments = true

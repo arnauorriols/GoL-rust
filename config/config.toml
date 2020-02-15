@@ -1,0 +1,20 @@
+[world]
+width = 100
+height = 50
+alive_symbol = "●"
+dead_symbol = " "
+speed = 1
+
+[[patterns]]
+start_x = 30
+start_y = 10
+living_cells = [
+    [1, 0], [2, 1], [0, 2], [1, 2], [2, 2]
+]
+
+[[patterns]]
+start_x = 20
+start_y = 10
+living_cells = [
+    [1, 0], [2, 1], [0, 2], [1, 2], [2, 2]
+]
